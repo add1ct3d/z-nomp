@@ -42,6 +42,11 @@
         "adminCenter": {
             "enabled": false,
             "password": "password"
+        },
+        "tls": {
+            "enabled": false,
+            "key": '',
+            "cert": ''
         }
     },
 
